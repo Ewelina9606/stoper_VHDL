@@ -1,0 +1,242 @@
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys4DDR_Master.ucf -p xc7a100t-csg324-3 multipleksowanie.ngc multipleksowanie.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o multipleksowanie_map.ncd multipleksowanie.ngd multipleksowanie.pcf 
+par -w -intstyle ise -ol high -mt off multipleksowanie_map.ncd multipleksowanie.ncd multipleksowanie.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml multipleksowanie.twx multipleksowanie.ncd -o multipleksowanie.twr multipleksowanie.pcf -ucf Nexys4DDR_Master.ucf 
+bitgen -intstyle ise -f multipleksowanie.ut multipleksowanie.ncd 
+bitgen -intstyle ise -f multipleksowanie.ut multipleksowanie.ncd 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys4DDR_Master.ucf -p xc7a100t-csg324-3 multipleksowanie.ngc multipleksowanie.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys4DDR_Master.ucf -p xc7a100t-csg324-3 multipleksowanie.ngc multipleksowanie.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys4DDR_Master.ucf -p xc7a100t-csg324-3 multipleksowanie.ngc multipleksowanie.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys4DDR_Master.ucf -p xc7a100t-csg324-3 multipleksowanie.ngc multipleksowanie.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys4DDR_Master.ucf -p xc7a100t-csg324-3 multipleksowanie.ngc multipleksowanie.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o multipleksowanie_map.ncd multipleksowanie.ngd multipleksowanie.pcf 
+par -w -intstyle ise -ol high -mt off multipleksowanie_map.ncd multipleksowanie.ncd multipleksowanie.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml multipleksowanie.twx multipleksowanie.ncd -o multipleksowanie.twr multipleksowanie.pcf -ucf Nexys4DDR_Master.ucf 
+bitgen -intstyle ise -f multipleksowanie.ut multipleksowanie.ncd 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys4DDR_Master.ucf -p xc7a100t-csg324-3 multipleksowanie.ngc multipleksowanie.ngd  
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys4DDR_Master.ucf -p xc7a100t-csg324-3 multipleksowanie.ngc multipleksowanie.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o multipleksowanie_map.ncd multipleksowanie.ngd multipleksowanie.pcf 
+par -w -intstyle ise -ol high -mt off multipleksowanie_map.ncd multipleksowanie.ncd multipleksowanie.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml multipleksowanie.twx multipleksowanie.ncd -o multipleksowanie.twr multipleksowanie.pcf -ucf Nexys4DDR_Master.ucf 
+bitgen -intstyle ise -f multipleksowanie.ut multipleksowanie.ncd 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys4DDR_Master.ucf -p xc7a100t-csg324-3 multipleksowanie.ngc multipleksowanie.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys4DDR_Master.ucf -p xc7a100t-csg324-3 multipleksowanie.ngc multipleksowanie.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o multipleksowanie_map.ncd multipleksowanie.ngd multipleksowanie.pcf 
+par -w -intstyle ise -ol high -mt off multipleksowanie_map.ncd multipleksowanie.ncd multipleksowanie.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml multipleksowanie.twx multipleksowanie.ncd -o multipleksowanie.twr multipleksowanie.pcf -ucf Nexys4DDR_Master.ucf 
+bitgen -intstyle ise -f multipleksowanie.ut multipleksowanie.ncd 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys4DDR_Master.ucf -p xc7a100t-csg324-3 multipleksowanie.ngc multipleksowanie.ngd  
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys4DDR_Master.ucf -p xc7a100t-csg324-3 multipleksowanie.ngc multipleksowanie.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o multipleksowanie_map.ncd multipleksowanie.ngd multipleksowanie.pcf 
+par -w -intstyle ise -ol high -mt off multipleksowanie_map.ncd multipleksowanie.ncd multipleksowanie.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml multipleksowanie.twx multipleksowanie.ncd -o multipleksowanie.twr multipleksowanie.pcf -ucf Nexys4DDR_Master.ucf 
+bitgen -intstyle ise -f multipleksowanie.ut multipleksowanie.ncd 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys4DDR_Master.ucf -p xc7a100t-csg324-3 multipleksowanie.ngc multipleksowanie.ngd  
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys4DDR_Master.ucf -p xc7a100t-csg324-3 multipleksowanie.ngc multipleksowanie.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o multipleksowanie_map.ncd multipleksowanie.ngd multipleksowanie.pcf 
+par -w -intstyle ise -ol high -mt off multipleksowanie_map.ncd multipleksowanie.ncd multipleksowanie.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml multipleksowanie.twx multipleksowanie.ncd -o multipleksowanie.twr multipleksowanie.pcf -ucf Nexys4DDR_Master.ucf 
+bitgen -intstyle ise -f multipleksowanie.ut multipleksowanie.ncd 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys4DDR_Master.ucf -p xc7a100t-csg324-3 multipleksowanie.ngc multipleksowanie.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o multipleksowanie_map.ncd multipleksowanie.ngd multipleksowanie.pcf 
+par -w -intstyle ise -ol high -mt off multipleksowanie_map.ncd multipleksowanie.ncd multipleksowanie.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml multipleksowanie.twx multipleksowanie.ncd -o multipleksowanie.twr multipleksowanie.pcf -ucf Nexys4DDR_Master.ucf 
+bitgen -intstyle ise -f multipleksowanie.ut multipleksowanie.ncd 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys4DDR_Master.ucf -p xc7a100t-csg324-3 multipleksowanie.ngc multipleksowanie.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o multipleksowanie_map.ncd multipleksowanie.ngd multipleksowanie.pcf 
+par -w -intstyle ise -ol high -mt off multipleksowanie_map.ncd multipleksowanie.ncd multipleksowanie.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml multipleksowanie.twx multipleksowanie.ncd -o multipleksowanie.twr multipleksowanie.pcf -ucf Nexys4DDR_Master.ucf 
+bitgen -intstyle ise -f multipleksowanie.ut multipleksowanie.ncd 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys4DDR_Master.ucf -p xc7a100t-csg324-3 multipleksowanie.ngc multipleksowanie.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o multipleksowanie_map.ncd multipleksowanie.ngd multipleksowanie.pcf 
+par -w -intstyle ise -ol high -mt off multipleksowanie_map.ncd multipleksowanie.ncd multipleksowanie.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml multipleksowanie.twx multipleksowanie.ncd -o multipleksowanie.twr multipleksowanie.pcf -ucf Nexys4DDR_Master.ucf 
+bitgen -intstyle ise -f multipleksowanie.ut multipleksowanie.ncd 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys4DDR_Master.ucf -p xc7a100t-csg324-3 multipleksowanie.ngc multipleksowanie.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o multipleksowanie_map.ncd multipleksowanie.ngd multipleksowanie.pcf 
+par -w -intstyle ise -ol high -mt off multipleksowanie_map.ncd multipleksowanie.ncd multipleksowanie.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml multipleksowanie.twx multipleksowanie.ncd -o multipleksowanie.twr multipleksowanie.pcf -ucf Nexys4DDR_Master.ucf 
+bitgen -intstyle ise -f multipleksowanie.ut multipleksowanie.ncd 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys4DDR_Master.ucf -p xc7a100t-csg324-3 multipleksowanie.ngc multipleksowanie.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o multipleksowanie_map.ncd multipleksowanie.ngd multipleksowanie.pcf 
+par -w -intstyle ise -ol high -mt off multipleksowanie_map.ncd multipleksowanie.ncd multipleksowanie.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml multipleksowanie.twx multipleksowanie.ncd -o multipleksowanie.twr multipleksowanie.pcf -ucf Nexys4DDR_Master.ucf 
+bitgen -intstyle ise -f multipleksowanie.ut multipleksowanie.ncd 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys4DDR_Master.ucf -p xc7a100t-csg324-3 multipleksowanie.ngc multipleksowanie.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o multipleksowanie_map.ncd multipleksowanie.ngd multipleksowanie.pcf 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys4DDR_Master.ucf -p xc7a100t-csg324-3 multipleksowanie.ngc multipleksowanie.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o multipleksowanie_map.ncd multipleksowanie.ngd multipleksowanie.pcf 
+par -w -intstyle ise -ol high -mt off multipleksowanie_map.ncd multipleksowanie.ncd multipleksowanie.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml multipleksowanie.twx multipleksowanie.ncd -o multipleksowanie.twr multipleksowanie.pcf -ucf Nexys4DDR_Master.ucf 
+bitgen -intstyle ise -f multipleksowanie.ut multipleksowanie.ncd 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys4DDR_Master.ucf -p xc7a100t-csg324-3 multipleksowanie.ngc multipleksowanie.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o multipleksowanie_map.ncd multipleksowanie.ngd multipleksowanie.pcf 
+par -w -intstyle ise -ol high -mt off multipleksowanie_map.ncd multipleksowanie.ncd multipleksowanie.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml multipleksowanie.twx multipleksowanie.ncd -o multipleksowanie.twr multipleksowanie.pcf -ucf Nexys4DDR_Master.ucf 
+bitgen -intstyle ise -f multipleksowanie.ut multipleksowanie.ncd 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys4DDR_Master.ucf -p xc7a100t-csg324-3 multipleksowanie.ngc multipleksowanie.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o multipleksowanie_map.ncd multipleksowanie.ngd multipleksowanie.pcf 
+par -w -intstyle ise -ol high -mt off multipleksowanie_map.ncd multipleksowanie.ncd multipleksowanie.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml multipleksowanie.twx multipleksowanie.ncd -o multipleksowanie.twr multipleksowanie.pcf -ucf Nexys4DDR_Master.ucf 
+bitgen -intstyle ise -f multipleksowanie.ut multipleksowanie.ncd 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys4DDR_Master.ucf -p xc7a100t-csg324-3 multipleksowanie.ngc multipleksowanie.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o multipleksowanie_map.ncd multipleksowanie.ngd multipleksowanie.pcf 
+par -w -intstyle ise -ol high -mt off multipleksowanie_map.ncd multipleksowanie.ncd multipleksowanie.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml multipleksowanie.twx multipleksowanie.ncd -o multipleksowanie.twr multipleksowanie.pcf -ucf Nexys4DDR_Master.ucf 
+bitgen -intstyle ise -f multipleksowanie.ut multipleksowanie.ncd 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys4DDR_Master.ucf -p xc7a100t-csg324-3 multipleksowanie.ngc multipleksowanie.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o multipleksowanie_map.ncd multipleksowanie.ngd multipleksowanie.pcf 
+par -w -intstyle ise -ol high -mt off multipleksowanie_map.ncd multipleksowanie.ncd multipleksowanie.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml multipleksowanie.twx multipleksowanie.ncd -o multipleksowanie.twr multipleksowanie.pcf -ucf Nexys4DDR_Master.ucf 
+bitgen -intstyle ise -f multipleksowanie.ut multipleksowanie.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys4DDR_Master.ucf -p xc7a100t-csg324-3 multipleksowanie.ngc multipleksowanie.ngd  
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys4DDR_Master.ucf -p xc7a100t-csg324-3 multipleksowanie.ngc multipleksowanie.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o multipleksowanie_map.ncd multipleksowanie.ngd multipleksowanie.pcf 
+par -w -intstyle ise -ol high -mt off multipleksowanie_map.ncd multipleksowanie.ncd multipleksowanie.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml multipleksowanie.twx multipleksowanie.ncd -o multipleksowanie.twr multipleksowanie.pcf -ucf Nexys4DDR_Master.ucf 
+bitgen -intstyle ise -f multipleksowanie.ut multipleksowanie.ncd 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys4DDR_Master.ucf -p xc7a100t-csg324-3 multipleksowanie.ngc multipleksowanie.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o multipleksowanie_map.ncd multipleksowanie.ngd multipleksowanie.pcf 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys4DDR_Master.ucf -p xc7a100t-csg324-3 multipleksowanie.ngc multipleksowanie.ngd  
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys4DDR_Master.ucf -p xc7a100t-csg324-3 multipleksowanie.ngc multipleksowanie.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o multipleksowanie_map.ncd multipleksowanie.ngd multipleksowanie.pcf 
+par -w -intstyle ise -ol high -mt off multipleksowanie_map.ncd multipleksowanie.ncd multipleksowanie.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml multipleksowanie.twx multipleksowanie.ncd -o multipleksowanie.twr multipleksowanie.pcf -ucf Nexys4DDR_Master.ucf 
+bitgen -intstyle ise -f multipleksowanie.ut multipleksowanie.ncd 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys4DDR_Master.ucf -p xc7a100t-csg324-3 multipleksowanie.ngc multipleksowanie.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o multipleksowanie_map.ncd multipleksowanie.ngd multipleksowanie.pcf 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys4DDR_Master.ucf -p xc7a100t-csg324-3 multipleksowanie.ngc multipleksowanie.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o multipleksowanie_map.ncd multipleksowanie.ngd multipleksowanie.pcf 
+par -w -intstyle ise -ol high -mt off multipleksowanie_map.ncd multipleksowanie.ncd multipleksowanie.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml multipleksowanie.twx multipleksowanie.ncd -o multipleksowanie.twr multipleksowanie.pcf -ucf Nexys4DDR_Master.ucf 
+bitgen -intstyle ise -f multipleksowanie.ut multipleksowanie.ncd 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys4DDR_Master.ucf -p xc7a100t-csg324-3 multipleksowanie.ngc multipleksowanie.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o multipleksowanie_map.ncd multipleksowanie.ngd multipleksowanie.pcf 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys4DDR_Master.ucf -p xc7a100t-csg324-3 multipleksowanie.ngc multipleksowanie.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o multipleksowanie_map.ncd multipleksowanie.ngd multipleksowanie.pcf 
+par -w -intstyle ise -ol high -mt off multipleksowanie_map.ncd multipleksowanie.ncd multipleksowanie.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml multipleksowanie.twx multipleksowanie.ncd -o multipleksowanie.twr multipleksowanie.pcf -ucf Nexys4DDR_Master.ucf 
+bitgen -intstyle ise -f multipleksowanie.ut multipleksowanie.ncd 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys4DDR_Master.ucf -p xc7a100t-csg324-3 multipleksowanie.ngc multipleksowanie.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o multipleksowanie_map.ncd multipleksowanie.ngd multipleksowanie.pcf 
+par -w -intstyle ise -ol high -mt off multipleksowanie_map.ncd multipleksowanie.ncd multipleksowanie.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml multipleksowanie.twx multipleksowanie.ncd -o multipleksowanie.twr multipleksowanie.pcf -ucf Nexys4DDR_Master.ucf 
+bitgen -intstyle ise -f multipleksowanie.ut multipleksowanie.ncd 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+xst -intstyle ise -ifn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.xst" -ofn "/home/ise/Connect_with_ISE/ISE_projets/stoper/multipleksowanie.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys4DDR_Master.ucf -p xc7a100t-csg324-3 multipleksowanie.ngc multipleksowanie.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o multipleksowanie_map.ncd multipleksowanie.ngd multipleksowanie.pcf 
+par -w -intstyle ise -ol high -mt off multipleksowanie_map.ncd multipleksowanie.ncd multipleksowanie.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml multipleksowanie.twx multipleksowanie.ncd -o multipleksowanie.twr multipleksowanie.pcf -ucf Nexys4DDR_Master.ucf 
+bitgen -intstyle ise -f multipleksowanie.ut multipleksowanie.ncd 

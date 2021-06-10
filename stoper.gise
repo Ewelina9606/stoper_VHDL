@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="stoper.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="_ngo"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/bitgen.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/map.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/ngdbuild.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/par.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/trce.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/xst.xmsgs"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_BITGEN_REPORT" xil_pn:name="multipleksowanie.bgn" xil_pn:subbranch="FPGAConfiguration"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_BIT" xil_pn:name="multipleksowanie.bit" xil_pn:subbranch="FPGAConfiguration"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGDBUILD_LOG" xil_pn:name="multipleksowanie.bld"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="multipleksowanie.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_BITGEN_DRC" xil_pn:name="multipleksowanie.drc" xil_pn:subbranch="FPGAConfiguration"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="multipleksowanie.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NCD" xil_pn:name="multipleksowanie.ncd" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="multipleksowanie.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGD" xil_pn:name="multipleksowanie.ngd"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="multipleksowanie.ngr"/>
+    <file xil_pn:fileType="FILE_PAD_MISC" xil_pn:name="multipleksowanie.pad"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAR_REPORT" xil_pn:name="multipleksowanie.par" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PCF" xil_pn:name="multipleksowanie.pcf" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="multipleksowanie.prj"/>
+    <file xil_pn:fileType="FILE_TRCE_MISC" xil_pn:name="multipleksowanie.ptwx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="multipleksowanie.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="multipleksowanie.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_TIMING_TXT_REPORT" xil_pn:name="multipleksowanie.twr" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_TIMING_XML_REPORT" xil_pn:name="multipleksowanie.twx" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_UNROUTES" xil_pn:name="multipleksowanie.unroutes" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_BITGEN_REPORT" xil_pn:name="multipleksowanie.ut" xil_pn:subbranch="FPGAConfiguration"/>
+    <file xil_pn:fileType="FILE_XPI" xil_pn:name="multipleksowanie.xpi"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="multipleksowanie.xst"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="multipleksowanie_envsettings.html"/>
+    <file xil_pn:fileType="FILE_NCD" xil_pn:name="multipleksowanie_guide.ncd" xil_pn:origination="imported"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="multipleksowanie_map.map" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="multipleksowanie_map.mrp" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NCD" xil_pn:name="multipleksowanie_map.ncd" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGM" xil_pn:name="multipleksowanie_map.ngm" xil_pn:subbranch="Map"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="multipleksowanie_map.xrpt"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="multipleksowanie_ngdbuild.xrpt"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAD_EXCEL_REPORT" xil_pn:name="multipleksowanie_pad.csv" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAD_TXT_REPORT" xil_pn:name="multipleksowanie_pad.txt" xil_pn:subbranch="Par"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="multipleksowanie_par.xrpt"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="multipleksowanie_summary.html"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="multipleksowanie_summary.xml"/>
+    <file xil_pn:fileType="FILE_WEBTALK" xil_pn:name="multipleksowanie_usage.xml"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="multipleksowanie_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_LOG" xil_pn:name="webtalk.log"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="webtalk_pn.xml"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xlnx_auto_0_xdb"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1622167412" xil_pn:name="TRAN_copyInitialToXSTAbstractSynthesis" xil_pn:start_ts="1622167412">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1622167412" xil_pn:name="TRAN_schematicsToHdl" xil_pn:prop_ck="-7588935983333977810" xil_pn:start_ts="1622167412">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1622167412" xil_pn:name="TRAN_regenerateCores" xil_pn:prop_ck="7573327558637289462" xil_pn:start_ts="1622167412">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1622167412" xil_pn:name="TRAN_SubProjectAbstractToPreProxy" xil_pn:start_ts="1622167412">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1622167412" xil_pn:name="TRAN_xawsTohdl" xil_pn:prop_ck="-549317016196959024" xil_pn:start_ts="1622167412">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1622167412" xil_pn:name="TRAN_SubProjectPreToStructuralProxy" xil_pn:prop_ck="3206529612922900429" xil_pn:start_ts="1622167412">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1622167412" xil_pn:name="TRAN_platgen" xil_pn:prop_ck="2991951441006224896" xil_pn:start_ts="1622167412">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1622167433" xil_pn:in_ck="5505343487178349" xil_pn:name="TRANEXT_xstsynthesize_virtex6" xil_pn:prop_ck="2352390072225831805" xil_pn:start_ts="1622167412">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="WarningsGenerated"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="_xmsgs/xst.xmsgs"/>
+      <outfile xil_pn:name="multipleksowanie.lso"/>
+      <outfile xil_pn:name="multipleksowanie.ngc"/>
+      <outfile xil_pn:name="multipleksowanie.prj"/>
+      <outfile xil_pn:name="multipleksowanie.stx"/>
+      <outfile xil_pn:name="multipleksowanie.syr"/>
+      <outfile xil_pn:name="multipleksowanie.xst"/>
+      <outfile xil_pn:name="multipleksowanie_xst.xrpt"/>
+      <outfile xil_pn:name="webtalk_pn.xml"/>
+      <outfile xil_pn:name="xst"/>
+    </transform>
+    <transform xil_pn:end_ts="1622167433" xil_pn:in_ck="8727754723594036668" xil_pn:name="TRAN_compileBCD2" xil_pn:prop_ck="4233406161570306821" xil_pn:start_ts="1622167433">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1622167446" xil_pn:in_ck="6856622237530644303" xil_pn:name="TRANEXT_ngdbuild_FPGA" xil_pn:prop_ck="-1924600325480380143" xil_pn:start_ts="1622167433">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="_ngo"/>
+      <outfile xil_pn:name="_xmsgs/ngdbuild.xmsgs"/>
+      <outfile xil_pn:name="multipleksowanie.bld"/>
+      <outfile xil_pn:name="multipleksowanie.ngd"/>
+      <outfile xil_pn:name="multipleksowanie_ngdbuild.xrpt"/>
+    </transform>
+    <transform xil_pn:end_ts="1622167495" xil_pn:in_ck="6856622237530644304" xil_pn:name="TRANEXT_map_virtex7" xil_pn:prop_ck="2100985583056581773" xil_pn:start_ts="1622167446">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="WarningsGenerated"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="_xmsgs/map.xmsgs"/>
+      <outfile xil_pn:name="multipleksowanie.pcf"/>
+      <outfile xil_pn:name="multipleksowanie_map.map"/>
+      <outfile xil_pn:name="multipleksowanie_map.mrp"/>
+      <outfile xil_pn:name="multipleksowanie_map.ncd"/>
+      <outfile xil_pn:name="multipleksowanie_map.ngm"/>
+      <outfile xil_pn:name="multipleksowanie_map.xrpt"/>
+      <outfile xil_pn:name="multipleksowanie_summary.xml"/>
+      <outfile xil_pn:name="multipleksowanie_usage.xml"/>
+    </transform>
+    <transform xil_pn:end_ts="1622167552" xil_pn:in_ck="-4720854872883014039" xil_pn:name="TRANEXT_par_virtex5" xil_pn:prop_ck="-2283627392121029586" xil_pn:start_ts="1622167495">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="_xmsgs/par.xmsgs"/>
+      <outfile xil_pn:name="multipleksowanie.ncd"/>
+      <outfile xil_pn:name="multipleksowanie.pad"/>
+      <outfile xil_pn:name="multipleksowanie.par"/>
+      <outfile xil_pn:name="multipleksowanie.ptwx"/>
+      <outfile xil_pn:name="multipleksowanie.unroutes"/>
+      <outfile xil_pn:name="multipleksowanie.xpi"/>
+      <outfile xil_pn:name="multipleksowanie_pad.csv"/>
+      <outfile xil_pn:name="multipleksowanie_pad.txt"/>
+      <outfile xil_pn:name="multipleksowanie_par.xrpt"/>
+    </transform>
+    <transform xil_pn:end_ts="1622167593" xil_pn:in_ck="601911664801153808" xil_pn:name="TRANEXT_bitFile_virtex7" xil_pn:prop_ck="-2936224152443411599" xil_pn:start_ts="1622167552">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="_xmsgs/bitgen.xmsgs"/>
+      <outfile xil_pn:name="multipleksowanie.bgn"/>
+      <outfile xil_pn:name="multipleksowanie.bit"/>
+      <outfile xil_pn:name="multipleksowanie.drc"/>
+      <outfile xil_pn:name="multipleksowanie.ut"/>
+      <outfile xil_pn:name="webtalk.log"/>
+      <outfile xil_pn:name="webtalk_pn.xml"/>
+    </transform>
+    <transform xil_pn:end_ts="1622161903" xil_pn:in_ck="601911664801140954" xil_pn:name="TRAN_configureTargetDevice" xil_pn:prop_ck="-6383737364629502382" xil_pn:start_ts="1622161875">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="InputAdded"/>
+      <status xil_pn:value="InputChanged"/>
+      <status xil_pn:value="InputRemoved"/>
+    </transform>
+    <transform xil_pn:end_ts="1622167552" xil_pn:in_ck="6856622237530644172" xil_pn:name="TRAN_postRouteTrce" xil_pn:prop_ck="445577401284416185" xil_pn:start_ts="1622167529">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="_xmsgs/trce.xmsgs"/>
+      <outfile xil_pn:name="multipleksowanie.twr"/>
+      <outfile xil_pn:name="multipleksowanie.twx"/>
+    </transform>
+  </transforms>
+
+</generated_project>

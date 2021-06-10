@@ -1,0 +1,27 @@
+//! **************************************************************************
+// Written by: Map P.20131013 on Fri May 28 02:04:52 2021
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "stop" LOCATE = SITE "M17" LEVEL 1;
+COMP "clk" LOCATE = SITE "E3" LEVEL 1;
+COMP "odczyt" LOCATE = SITE "P17" LEVEL 1;
+COMP "dig<0>" LOCATE = SITE "J17" LEVEL 1;
+COMP "dig<1>" LOCATE = SITE "J18" LEVEL 1;
+COMP "dig<2>" LOCATE = SITE "T9" LEVEL 1;
+COMP "reset_stop" LOCATE = SITE "P18" LEVEL 1;
+COMP "dig<3>" LOCATE = SITE "J14" LEVEL 1;
+COMP "dig<4>" LOCATE = SITE "P14" LEVEL 1;
+COMP "dig<5>" LOCATE = SITE "T14" LEVEL 1;
+COMP "dig<6>" LOCATE = SITE "K2" LEVEL 1;
+COMP "dig<7>" LOCATE = SITE "U13" LEVEL 1;
+COMP "wyj_dek<0>" LOCATE = SITE "L18" LEVEL 1;
+COMP "wyj_dek<1>" LOCATE = SITE "T11" LEVEL 1;
+COMP "wyj_dek<2>" LOCATE = SITE "P15" LEVEL 1;
+COMP "wyj_dek<3>" LOCATE = SITE "K13" LEVEL 1;
+COMP "wyj_dek<4>" LOCATE = SITE "K16" LEVEL 1;
+COMP "start" LOCATE = SITE "M18" LEVEL 1;
+COMP "wyj_dek<5>" LOCATE = SITE "R10" LEVEL 1;
+COMP "wyj_dek<6>" LOCATE = SITE "T10" LEVEL 1;
+SCHEMATIC END;
+
